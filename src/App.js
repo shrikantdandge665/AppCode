@@ -26,7 +26,7 @@ class App extends Component {
             userInput: value,
         });
     }
-  
+   #New update
     // Add item if user input in not empty
     addItem() {
         if (this.state.userInput !== "") {
